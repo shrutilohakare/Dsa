@@ -3,7 +3,7 @@ package com.HashMap;
 import java.util.HashMap;
 import java.util.Map;
 
-public class SortByLambda {
+public class SortByStream {
 
 	public static void main(String[] args) {
 		Map<String,Integer> hm=new HashMap<>();
